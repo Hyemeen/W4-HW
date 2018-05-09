@@ -13,7 +13,7 @@
 |string|string|integer|
 - Comment model
 |content|id|
-|---|---|
+|-----|-----|
 |integer|string|
 
 <br>
